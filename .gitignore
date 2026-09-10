@@ -1,0 +1,22 @@
+# 凭证/Token 档
+.github_token
+.pexels_token
+.env
+*.token
+
+# Python cache
+__pycache__/
+*.pyc
+
+# 输出档（每天自动产的）
+output/
+output_examples/
+logs/*.log
+
+# 备份档
+*.bak_*
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+
